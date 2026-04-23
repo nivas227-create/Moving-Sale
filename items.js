@@ -556,7 +556,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Round_Carpet.jpeg",
+    "photo1": "Round_Carpet.jpeg",
     "photo2": "",
     "photo3": ""
   },
@@ -573,7 +573,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Square_Carpet.jpeg",
+    "photo1": "Square_Carpet.jpeg",
     "photo2": "",
     "photo3": ""
   },
