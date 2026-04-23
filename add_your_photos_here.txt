@@ -1,1 +1,0 @@
-Put item photos in this folder and point photo1/photo2/photo3 in items.js to paths like photos/tv.jpg
