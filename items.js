@@ -368,7 +368,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "Product Link: https://www.amazon.com/dp/B0BLV6PK3D?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1",
+    "notes": "Modern glass-top coffee table with metal base, Sturdy and stable construction, Minor wear consistent with normal use, Clean, minimalist design, Easy to match with most interiors",
     "photo1": "Coffee_Table.jpg",
     "photo2": "",
     "photo3": ""
