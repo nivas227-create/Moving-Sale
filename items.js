@@ -488,7 +488,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "",
+    "photo1": "Outside two chair and table set.jpeg",
     "photo2": "",
     "photo3": ""
   },
