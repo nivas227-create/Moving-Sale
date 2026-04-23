@@ -11,7 +11,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Premium LG OLED display with excellent picture quality, Works perfectly, no issues, Includes remote, Minor signs of use, Great for movies and gaming",
     "photo1": "OLED TV 1.jpg",
     "photo2": "OLED TV 2.jpg",
     "photo3": ""
@@ -181,7 +181,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Large solid wood entertainment center, Multiple shelves and storage cabinets, Good structural condition, Minor cosmetic wear, Ideal for large living rooms",
     "photo1": "Entertainment_Center.png",
     "photo2": "",
     "photo3": ""
