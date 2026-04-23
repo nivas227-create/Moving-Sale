@@ -12,8 +12,8 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/OLED TV 1.jpg",
-    "photo2": "photos/OLED TV 2.jpg",
+    "photo1": "OLED TV 1.jpg",
+    "photo2": "OLED TV 2.jpg",
     "photo3": ""
   },
   {
@@ -29,7 +29,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Brother MFCL2700DW All-In One Laser Printer with Wireless Networking and Duplex Printing, Amazon Dash Replenishment Ready",
-    "photo1": "photos/Brother_Printer.jpeg",
+    "photo1": "Brother_Printer.jpeg",
     "photo2": "",
     "photo3": ""
   },
