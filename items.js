@@ -79,7 +79,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Solid wood king-size bed frame, Elegant design with sturdy construction, Good overall condition, Minor wear consistent with use, Mattress and box springs included",
     "photo1": "King Bed.jpg",
     "photo2": "",
     "photo3": ""
@@ -96,7 +96,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Classic design with carved headboard, Solid and durable construction, Good condition overall, Minor cosmetic wear, Mattress and box springs included",
     "photo1": "Queen Bed.jpg",
     "photo2": "",
     "photo3": ""
@@ -351,7 +351,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Outdoor patio umbrella with weighted base, Includes protective cover, Good structural condition, Normal wear from outdoor use, Ready for immediate use",
     "photo1": "Patio Umbrella.jpg",
     "photo2": "",
     "photo3": ""
@@ -385,7 +385,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "High-quality Tempurpedic memory foam toppers, Lightly used and in good condition, No stains or damage, Adds significant comfort to any mattress",
     "photo1": "",
     "photo2": "",
     "photo3": ""
@@ -402,7 +402,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "High-quality Tempurpedic memory foam toppers, Lightly used and in good condition, No stains or damage, Adds significant comfort to any mattress",
     "photo1": "",
     "photo2": "",
     "photo3": ""
