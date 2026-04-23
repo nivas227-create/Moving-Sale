@@ -46,7 +46,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Canon_Printer.jpeg",
+    "photo1": "Canon_Printer.jpeg",
     "photo2": "",
     "photo3": ""
   },
@@ -63,7 +63,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "",
+    "photo1": "Klipsch Sound Bar with Subwoofer.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -80,7 +80,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/King Bed.jpg",
+    "photo1": "King Bed.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -97,7 +97,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Queen Bed.jpg",
+    "photo1": "Queen Bed.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -114,7 +114,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Reclining mechanism works smoothly/Synthetic leather peeling; couch is structurally sound. Suitable for a reupholstery project or garage/basement use.",
-    "photo1": "photos/Three_Seat_Recliner.jpg",
+    "photo1": "Three_Seat_Recliner.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -131,7 +131,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Reclining mechanism works smoothly/Synthetic leather peeling; couch is structurally sound. Suitable for a reupholstery project or garage/basement use.",
-    "photo1": "photos/Love_Seat_Recliner.jpg",
+    "photo1": "Love_Seat_Recliner.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -148,7 +148,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Synthetic leather peeling; couch is structurally sound. Suitable for a reupholstery project or garage/basement use.",
-    "photo1": "photos/Big_Bad_Couch.jpg",
+    "photo1": "Big_Bad_Couch.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -165,8 +165,8 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "6 seater, solid wood, recently revarnished",
-    "photo1": "photos/Dining_Table_1.jpg",
-    "photo2": "photos/Dining_Table2.jpg",
+    "photo1": "Dining_Table_1.jpg",
+    "photo2": "Dining_Table2.jpg",
     "photo3": ""
   },
   {
@@ -182,7 +182,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Entertainment_Center.png",
+    "photo1": "Entertainment_Center.png",
     "photo2": "",
     "photo3": ""
   },
@@ -199,7 +199,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/TV_Stand.jpg",
+    "photo1": "TV_Stand.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -216,7 +216,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Recliner.jpg",
+    "photo1": "Recliner.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -250,7 +250,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Office_Chair.jpg",
+    "photo1": "Office_Chair.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -267,9 +267,9 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Chest Drawer1.jpg",
-    "photo2": "photos/Chest Drawer2.jpg",
-    "photo3": "photos/Chest Drawer3.jpg"
+    "photo1": "Chest Drawer1.jpg",
+    "photo2": "",
+    "photo3": ""
   },
   {
     "id": 17,
@@ -284,7 +284,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "",
+    "photo1": "Chest Drawer2.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -301,7 +301,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Has some water damage at the base and surface",
-    "photo1": "",
+    "photo1": "Chest Drawer3.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -318,7 +318,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Side_Table1.jpg",
+    "photo1": "Side_Table1.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -335,7 +335,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Side_Table2.jpg",
+    "photo1": "Side_Table2.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -352,7 +352,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "",
-    "photo1": "photos/Patio Umbrella.jpg",
+    "photo1": "Patio Umbrella.jpg",
     "photo2": "",
     "photo3": ""
   },
@@ -369,7 +369,7 @@ window.SALE_ITEMS = [
     "bundleEligible": "",
     "status": "Available",
     "notes": "Product Link: https://www.amazon.com/dp/B0BLV6PK3D?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1",
-    "photo1": "photos/Coffee_Table.jpg",
+    "photo1": "Coffee_Table.jpg",
     "photo2": "",
     "photo3": ""
   },
