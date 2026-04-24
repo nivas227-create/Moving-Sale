@@ -28,7 +28,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "Brother MFCL2700DW All-In One Laser Printer with Wireless Networking and Duplex Printing, Amazon Dash Replenishment Ready",
+    "notes": "Brother all-in-one laser printer (print/scan/copy), Reliable and fast printing, Works well, no known issues, Ideal for home office or student use, Toner-efficient compared to ink printers",
     "photo1": "Brother_Printer.jpeg",
     "photo2": "",
     "photo3": ""
@@ -45,7 +45,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Compact Canon inkjet printer, Good for basic home printing needs, Works fine, normal wear, Lightweight and easy to set up, Great as a backup or student printer",
     "photo1": "Canon_Printer.jpeg",
     "photo2": "",
     "photo3": ""
@@ -555,7 +555,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Colorful round area rug with unique pattern, Adds character to any room, Some signs of use (see photo),Still functional and visually appealing, Good for bedroom or kids’ room",
     "photo1": "Round_Carpet.jpeg",
     "photo2": "",
     "photo3": ""
@@ -572,7 +572,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Bright multicolor square rug, Modern geometric design, Good condition overall, Adds a vibrant touch to living spaces, Suitable for playroom or living room",
     "photo1": "Square_Carpet.jpeg",
     "photo2": "",
     "photo3": ""
