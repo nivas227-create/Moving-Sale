@@ -487,7 +487,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Decorative outdoor bistro-style table with 2 chairs, Metal construction with elegant design, Good structural condition, Minor wear from outdoor use, Perfect for patio, balcony, or garden seating",
     "photo1": "Outside two chair and table set.jpeg",
     "photo2": "",
     "photo3": ""
