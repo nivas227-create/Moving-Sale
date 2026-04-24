@@ -6,7 +6,7 @@ window.SALE_ITEMS = [
     "brandModel": "",
     "condition": "Very Good",
     "age": "6",
-    "price": 750.0 "(Price negotiable within reason)",
+    "price": 750.0 negotiable within reason,
     "location": "Living Room",
     "pickupWindow": "",
     "bundleEligible": "",
@@ -62,7 +62,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Premium Klipsch sound bar with subwoofer. Fully functional with excellent sound quality. Minor cosmetic wear but nothing affecting performance. Great for home theater setup.",
     "photo1": "Klipsch Sound Bar with Subwoofer.jpg",
     "photo2": "",
     "photo3": ""
@@ -215,7 +215,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Comfortable recliner with removable slipcover. Structurally solid and functions well. Some visible wear/staining on the cover—could benefit from cleaning or replacement cover. Priced accordingly.",
     "photo1": "Recliner.jpg",
     "photo2": "",
     "photo3": ""
@@ -249,7 +249,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Adjustable ergonomic office chair with lumbar support and headrest. Clean and well-maintained. Smooth rolling wheels and all adjustments working properly. Ideal for home office use.",
     "photo1": "Office_Chair.jpg",
     "photo2": "",
     "photo3": ""
@@ -317,7 +317,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Solid wood nightstand with two drawers. Sturdy and functional. Some minor surface scratches and wear consistent with normal use. Plenty of storage space.",
     "photo1": "Side_Table1.jpg",
     "photo2": "",
     "photo3": ""
@@ -334,7 +334,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "",
+    "notes": "Solid wood nightstand with two drawers. Sturdy and functional. Some minor surface scratches and wear consistent with normal use. Plenty of storage space.",
     "photo1": "Side_Table2.jpg",
     "photo2": "",
     "photo3": ""
