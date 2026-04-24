@@ -6,7 +6,7 @@ window.SALE_ITEMS = [
     "brandModel": "",
     "condition": "Very Good",
     "age": "6",
-    "price": 750.0,
+    "price": 750.0 "(Price negotiable within reason)",
     "location": "Living Room",
     "pickupWindow": "",
     "bundleEligible": "",
