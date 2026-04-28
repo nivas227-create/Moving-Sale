@@ -606,7 +606,7 @@ window.SALE_ITEMS = [
     "pickupWindow": "",
     "bundleEligible": "",
     "status": "Available",
-    "notes": "45000 miles, Price based on KBB.",
+    "notes": "Well-maintained 2018 Toyota RAV4 SE in very good condition, with approximately 50,000 miles. This has been a reliable, low-maintenance vehicle with no major issues—ideal for commuting, family use, or long drives. Two minor rear-end incidents (no airbag deployment). Professionally repaired and fully inspected—no structural damage. The car has been reliable with zero issues since.",
     "photo1": "",
     "photo2": "",
     "photo3": ""
