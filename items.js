@@ -222,7 +222,7 @@ window.SALE_ITEMS = [
   },
   {
     "id": 14,
-    "name": "Playroom table and chair set",
+    "name": "Low profile Table and chair set",
     "category": "Furniture",
     "brandModel": "",
     "condition": "Good",
