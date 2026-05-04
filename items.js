@@ -588,7 +588,7 @@ window.SALE_ITEMS = [
     "location": "",
     "pickupWindow": "",
     "bundleEligible": "",
-    "status": "Pending",
+    "status": "Available",
     "notes": "25000 miles, Price based in KBB.",
     "photo1": "",
     "photo2": "",
